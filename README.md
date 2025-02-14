@@ -13,4 +13,3 @@ This is a **two-player card matching game** developed in **C++** using **object-
 ## Technologies Used  
 - **C++** for core logic and game mechanics.  
 - **OOP principles** (encapsulation, inheritance, polymorphism).  
-- **Dynamic memory management** for deck and player handling. 
