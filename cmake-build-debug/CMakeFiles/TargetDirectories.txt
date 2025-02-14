@@ -1,0 +1,3 @@
+C:/Users/mahmo/سطح المكتب/Team74_Ahmed_13004763 (7)/Team74_Ahmed_13004763/cmake-build-debug/CMakeFiles/Team74_Ahmed_13004763.dir
+C:/Users/mahmo/سطح المكتب/Team74_Ahmed_13004763 (7)/Team74_Ahmed_13004763/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mahmo/سطح المكتب/Team74_Ahmed_13004763 (7)/Team74_Ahmed_13004763/cmake-build-debug/CMakeFiles/rebuild_cache.dir
